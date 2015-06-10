@@ -23,6 +23,8 @@ gem "campfiyah"
 gem "slack-notifier"
 gem "flowdock"
 
+gem "foreman"
+
 group :test do
   gem "sqlite3", "1.3.10"
   gem "webmock"
